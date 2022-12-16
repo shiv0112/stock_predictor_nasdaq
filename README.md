@@ -23,9 +23,9 @@ I trained this model using SARIMA model:
 
 ### Index page of Website:
 
-![Alt text](https://github.com/shiv0112/stock_prediction_nasdaq/raw/main/screenshots/1.jpg)
-![Alt text](https://github.com/shiv0112/stock_prediction_nasdaq/raw/main/screenshots/2.jpg)
+![Alt text](https://github.com/shiv0112/stock_predictor_nasdaq/blob/main/screenshots/1.jpg)
+![Alt text](https://github.com/shiv0112/stock_predictor_nasdaq/blob/main/screenshots/2.jpg)
 
 ## Finally prediction displayed:
 
-![Alt text](https://github.com/shiv0112/stock_prediction_nasdaq/raw/main/screenshots/output.jpg)
+![Alt text](https://github.com/shiv0112/stock_predictor_nasdaq/blob/main/screenshots/output.jpg)
