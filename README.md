@@ -7,7 +7,7 @@ Project Description 📄
 ❄️ Built a SARIMA model using statsmodel.api on European SOccer Database to
 forecast sales of shampoo over upcoming months.
 
-##### Jupyter Notebook: (https://github.com/shiv0112/stock_prediction_nasdaq/blob/master/notebooks)
+##### Jupyter Notebook: (https://github.com/shiv0112/stock_predictor_nasdaq/tree/main/notebooks)
 
 ## About Data:
 
